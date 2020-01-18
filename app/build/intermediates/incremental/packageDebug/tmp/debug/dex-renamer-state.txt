@@ -1,0 +1,4 @@
+#Sat Jan 18 11:42:37 BRST 2020
+base.0=/Users/rogeriocsantos/Projetos/Fractal/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
