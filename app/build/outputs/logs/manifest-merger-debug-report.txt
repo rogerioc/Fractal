@@ -43,3 +43,17 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml:11:17-77
 	android:name
 		ADDED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rogeriocsantos/Projetos/Android/Fractal/app/src/main/AndroidManifest.xml
